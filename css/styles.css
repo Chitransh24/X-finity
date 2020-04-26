@@ -1,0 +1,50 @@
+img {
+  background-color: #00bdaa;
+}
+body{
+  background-color: #00bdaa;
+}
+p{
+  font-family:cursive;
+  font-size: 150%;
+  color: #93deff;
+}
+.yoo{
+  width: 160%;
+  }
+  textarea{
+    background-color:#51dacf;
+  }
+h1{
+  color: #fb7b6b;
+  font-size: 370%;
+  font-family: cursive;
+}
+h3{
+  font-size: 150%;
+  font-family: cursive;
+}
+a:hover{
+  color: #ff006c;
+  background-color: #9ef5cf;
+transition: 0.3s;
+opacity: 0.6;
+}
+a{
+  font-size: 120%;
+  font-family: cursive;
+}
+hr{
+  text-align: left;
+  margin: 10px;
+  border-width: 6px;
+  width: 12%;
+  border-style: dotted none none;
+  color: #ffffff;
+}
+table{
+  width: 100%;
+}
+input{
+  background-color: #51dacf;
+}
